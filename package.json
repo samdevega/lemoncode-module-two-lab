@@ -1,0 +1,20 @@
+{
+  "name": "laboratorio_modulo_2",
+  "version": "1.0.0",
+  "description": "Implementa una función `head` (inmutable), tal que, dado un array como entrada extraiga y devuelva su primer elemento. Utiliza destructuring.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.9.3",
+    "@types/node": "^14.0.5"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "ts-jest": "^26.0.0",
+    "@types/jest": "^25.2.3"
+  }
+}
